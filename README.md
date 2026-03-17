@@ -36,14 +36,17 @@ https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions
 ## 📁 Estrutura do Projeto
 
 data/ -> dados brutos e tratados
+
 notebooks/ -> análises e experimentos
+
 src/ -> código reutilizável
+
 reports/ -> relatórios e resultados
 
 ## 👥 Integrantes
 
-- Bruno Cerqueira
-- Reginaldo Rogério de Campos
+- Bruno Cerqueira | 10721759
+- Reginaldo Rogério de Campos | 10743942
 
 ## 📅 Status
 
